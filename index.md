@@ -5,6 +5,6 @@ seotitle: Jekyll Test 1
 description: It's my test site.
 ---
 
-This is my test Jekyll-based site.
+This is my test Jekyll-based site. Edited.
 
 ## Latest posts
